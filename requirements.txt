@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+fastapi
+uvicorn
+streamlit
+matplotlib
+seaborn
+pydantic
+pickle-mixin
+python-multipart
+# For SHAP plots in streamlit
+st-annotated-text
+plotly

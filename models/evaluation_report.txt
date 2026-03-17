@@ -1,0 +1,19 @@
+Model Evaluation Report
+=======================
+
+Model: Logistic Regression
+ROC-AUC: 0.9486
+Precision: 0.9091
+Recall: 0.6061
+
+Model: Random Forest
+ROC-AUC: 0.9383
+Precision: 0.8636
+Recall: 0.5758
+
+Model: XGBoost
+ROC-AUC: 0.9267
+Precision: 0.8077
+Recall: 0.6364
+
+Chosen Model: Logistic Regression

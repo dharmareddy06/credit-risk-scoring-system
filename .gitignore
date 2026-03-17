@@ -1,0 +1,45 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Data and Models
+data/
+*.pkl
+*.h5
+*.joblib
+*.csv
+*.xlsx
+*.parquet
+
+# Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE and System files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Project specific
+Dockerfile
+# (Keep Dockerfile if you want it tracked, but often people ignore it if it's sensitive)
+# I will keep Dockerfile as it was in the list_dir output and usually should be tracked.
